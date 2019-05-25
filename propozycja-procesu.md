@@ -8,6 +8,7 @@ Czasami ciężko się oprzeć wrażeniu, że mają na celu osiągnięcie korzyś
 Proponowane i wprowadzane zmiany ciężko śledzić, nie ma czasu na ich konsultowanie czy - w niektórych przypadkach - nawet uważne przeczytanie przed procedowaniem. 
 Partie wyciągają z szuflady duże pakiety zmian nie dając społeczeństwu czasu na zapoznanie się z nimi, zgłoszenie poprawek lub sprzeciwu. 
 W przypadku szkodliwych zapisów - nie ma możliwości dowiedzenia kto i kiedy owe zmiany wprowadził. 
+
 Z powyższych obserwacji wynika potrzeba wprowadzenia usprawnień. 
 Proponuję wprowadzenie kilku bardzo prostych, tanich i otwartych rozwiązań technicznych pozwalających na ułatwienie śledzenia procesów legislacyjnych oraz zwiększenie ich przejrzystości i wiarygodności. 
 Tworzone dokumenty byłyby łatwe do publikowania zgodnie z wytycznymi WCAG, a dzięki temu łatwe do przetwarzania maszynowego, w tym również na urządzeniach potrzebnych np. niedowidzącym.
